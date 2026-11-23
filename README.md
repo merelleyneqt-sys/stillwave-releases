@@ -1,6 +1,6 @@
 # Stillwave
 
-**An audio player for musicians**, by Merelleyne Audio. It looks minimal, but it's built for working with your own tracks, demos and stems.
+**An audio player for musicians**. It looks minimal, but it's built for working with your own tracks, demos and stems.
 
 **[Download the latest version](https://github.com/merelleyneqt-sys/stillwave-releases/releases/latest)**
 
