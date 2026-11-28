@@ -11,7 +11,8 @@ Pin notes to exact moments of a track. They are saved **inside the audio file it
 
 ### Stem player
 Open a folder of stems and play them all in perfect sync.
-- Mute, solo and pan for every stem
+- Mute, solo, pan and volume for every stem
+- Save Changes writes each stem's volume and pan into its file
 - A waveform and peak level for every stem
 - Integrity check: finds silent, clipped, unreadable or too short files and mismatched sample rates
 
@@ -28,6 +29,9 @@ Title, artist, key and BPM are written into the file's tags.
 ### And more
 - **Key and BPM detection**, with Camelot codes
 - **Trim** without re-encoding, keeping tags, cover and notes (FLAC and M4A: Mac only)
+- **Fades** in and out with four curves, written into the file
+- **Mono button** to check how the mix sounds in mono
+- **Loudness (LUFS)** of the whole track
 - **Detailed stereo waveform**: left channel on top, right below, with zoom
 - **Gapless loop** of the whole track or the part you're trimming
 - **Precise volume** in 0.1 dB steps
